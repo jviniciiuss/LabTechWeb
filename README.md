@@ -1,2 +1,3 @@
 # LabTechWeb
-projeto do LabTecH2 em Django
+projeto do LabTecH2 em Flask
+
